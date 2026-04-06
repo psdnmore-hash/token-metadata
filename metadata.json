@@ -1,0 +1,17 @@
+{
+  "name": "Collect‑pumpꓸfun",
+  "symbol": "PUMPF",
+  "description": "Community token",
+  "image": "https://raw.githubusercontent.com/psdnmore-hash/token-metadata/main/logo.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/psdnmore-hash/token-metadata/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
